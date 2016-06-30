@@ -1,0 +1,14 @@
+layout_spectrum: 0.6502683726139367
+typography_spectrum: 0.12124716932885349
+color:
+  brandStrength: 0.2503809544723481
+  lightness: 0.1361491794232279
+  saturation: 0.6535451191011816
+  rhythmicContrast: 0.254316697595641
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: UltraFoodie
